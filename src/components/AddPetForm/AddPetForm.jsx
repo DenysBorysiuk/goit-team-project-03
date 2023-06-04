@@ -41,6 +41,7 @@ const AddPetForm = () => {
   const steps = ['Choose option', 'Personal details', 'More info'];
   const isLoading = useSelector(selectIsLoading);
   const isNoticeLoading = useSelector(selectIsNoticeLoading);
+  // console.log(isLoading);
 
   const handleClickNext = e => {
     e.preventDefault();
@@ -234,7 +235,7 @@ const AddPetForm = () => {
                     }
                   }}
                 >
-                  Next                  
+                  Next
                   <Pets
                     sx={{ width: 24, height: 24, transform: 'rotate(25deg)' }}
                   />
