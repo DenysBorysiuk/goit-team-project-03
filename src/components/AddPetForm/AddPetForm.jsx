@@ -41,7 +41,6 @@ const AddPetForm = () => {
   const steps = ['Choose option', 'Personal details', 'More info'];
   const isLoading = useSelector(selectIsLoading);
   const isNoticeLoading = useSelector(selectIsNoticeLoading);
-  // console.log(isLoading);
 
   const handleClickNext = e => {
     e.preventDefault();
