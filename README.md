@@ -1,58 +1,56 @@
-# Командний fullstack проект групи "MINUS 1" - YourPet
+# Command fullstack project by "MINUS 1" group - YourPet
 
-Лінк на код бекенду https://github.com/olekspyl/pets-back-end Документація
-бекенду https://pets-back-end.onrender.com/api-docs/
+**[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
+**[Link to backend code](https://github.com/olekspyl/pets-back-end )**
+**[Backend documentation](https://pets-back-end.onrender.com/api-docs/)**
 
-Використані технології:
+---
+
+![Site image](./public/og-image.jpg)
+
+## 📝 Project description
+
+### Used technologies:
 
 - React
 - Node.js
 - MongoDB
+
+### Used libraries:
+
 - Redux
-
-Підключені бібліотеки:
-
 - Axios
 - Formik / Yup
 - Hot-toast
 - Redux-persist
 
+### Features
 
-Базовий функціонал:
+- The layout is fixed in pixels.
+- Semantic and valid markup; accessibility (a11y) is a bonus.
+- Responsive and cross-browser layout:
+  - Mobile: 360px to 480px (fluid layout, should stretch);
+  - Tablet: 768px;
+  - Desktop: 1280px.
+- Utilize the Mobile-First approach.
+- Clean code with preserved formatting. Consider using ESLint/Prettier.
+- Code is divided into separate components.
+- Error page if the selected route does not exist, styled accordingly
+- Backend endpoint documentation is provided using Swagger.
 
-- Хедер з навігацією
-- Головна сторінка з логотипами
+## 📂 Deployment
 
-- Сторінка оголошень з вибором по категоріям:
-- За натисканням Learn more на картці товару відкривається модальне вікно з
-  повною інформацією
-- Також з картки тварини можно за посиланням перейти на гугл-карти подивитись
-  розташування автора оголошення
-- Реалізован пошук та відображення оголошень за ключовим словом
-- Підключена пагінація на сторінці оголошень
+To deploy this project, you need to perform the following steps:
 
-- Для авторизованого користовача з’являються додаткові можливості
-- В галереї оголошень стають доступні категорії favorite, my-ads
-- Якщо оголошення належить авторизованому користувачу, то з'являється кнопка
-  видалення
-- Якщо користувач авторизований, то з'являється можливість додати оголошення до
-  улюблених, або відповідно видалити
-- Якщо користувач знаходиться на сторінці favorite та видаляє оголошення з
-  улюблених, то сторінка автоматично оновлюється
+1. **Clone the repository**: Use the `git clone` command to clone this
+   repository to your computer.
+2. **Install the dependencies**: Open a terminal in the root of the project and
+   run `npm install` or `yarn install` to install all required dependencies.
+3. **Setting environment variables**: Create a `.env` file in the root folder
+   and add the necessary environment variables that you need for the project
+   according to the `.env.example` file.
+4. **Run the application**: Run the `npm run dev` or `yarn dev` command to run
+   the project on the local server.
+5. **Deploy**: To deploy this project to a production server, use hosting
+   platforms such as Vercel, Netlify, or others.
 
-- Сторінка Our friends, з інформацією про дружні компанії та лінками на
-  відповідні сайти
-
-- Сторінка користувача з його приватно доданими картками улюбленців та
-  можливістю додати власне фото, та контактами користувача
-- Контакти користувача можна змінювати
-- Фото користувача можна додати або змінити
-- Якщо ніяких улюбленців не додано, то про це відображається спеціальне
-  повідомлення
-
-- Сторінка Error page, якщо вибраний роут не існує, оформлена у відповідному
-  стилі
-
-- Верстка зроблена для 3 точок переходу (мобілка, планшет, десктоп)
-
-- Оформлено документацію енд-поінтів BackEnd'a за допомогою Swagger.
