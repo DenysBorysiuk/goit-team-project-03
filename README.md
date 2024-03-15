@@ -1,4 +1,6 @@
-# Command fullstack project by "MINUS 1" group - YourPet
+# YourPet
+
+## Command fullstack project by "MINUS 1" group 
 
 - **[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
 - **[Link to backend code](https://github.com/olekspyl/pets-back-end )**
