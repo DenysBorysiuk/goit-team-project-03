@@ -1,12 +1,12 @@
 # Command fullstack project by "MINUS 1" group - YourPet
 
-**[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
-**[Link to backend code](https://github.com/olekspyl/pets-back-end )**
-**[Backend documentation](https://pets-back-end.onrender.com/api-docs/)**
+- **[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
+- **[Link to backend code](https://github.com/olekspyl/pets-back-end )**
+- **[Backend documentation](https://pets-back-end.onrender.com/api-docs/)**
 
 ---
 
-![Site image](./public/og-image.jpg)
+![Site image](./public/og-image.png)
 
 ## 📝 Project description
 
