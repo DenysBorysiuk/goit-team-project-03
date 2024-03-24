@@ -1,8 +1,8 @@
 {
-  "name": "goit-team-project-03",
+  "name": "your-pet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DenysBorysiuk.github.io/goit-team-project-03/",
+  "homepage": "https://DenysBorysiuk.github.io/your-pet/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
