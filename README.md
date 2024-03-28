@@ -1,6 +1,6 @@
 # 🐾 Your Pet 🐾 team project by 'MINUS 1' team
 
-- **[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
+- **[View live page](https://denysborysiuk.github.io/your-pet/)**
 - **[Link to backend code](https://github.com/DenysBorysiuk/your-pet-api/)**
 - **[Backend documentation](https://pets-back-end.onrender.com/api-docs/)**
 
