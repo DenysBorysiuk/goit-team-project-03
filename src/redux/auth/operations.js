@@ -68,7 +68,6 @@ export const getCurrentUser = createAsyncThunk(
       const { data } = await axios.get('/api/users/current');
       return data;
     } catch (error) {
-      toast.error(errorMsg);
       return rejectWithValue('');
     }
   }
