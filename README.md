@@ -1,4 +1,4 @@
-# 🐾 Your Pet 🐾 team project by 'MINUS 1' group
+# 🐾 Your Pet 🐾 team project by 'MINUS 1' team
 
 - **[View live page](https://denysborysiuk.github.io/goit-team-project-03/)**
 - **[Link to backend code](https://github.com/DenysBorysiuk/your-pet-api/)**
