@@ -38,7 +38,7 @@
 - Error page if the selected route does not exist, styled accordingly
 - Backend endpoint documentation is provided using Swagger.
 
-## 📂 Deployment
+## ⚙️ Deployment
 
 To deploy this project, you need to perform the following steps:
 
