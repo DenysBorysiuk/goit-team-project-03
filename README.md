@@ -35,7 +35,7 @@
 - Utilize the Mobile-First approach.
 - Clean code with preserved formatting. Consider using ESLint/Prettier.
 - Code is divided into separate components.
-- Error page if the selected route does not exist, styled accordingly
+- Error page if the selected route does not exist, styled accordingly.
 - Backend endpoint documentation is provided using Swagger.
 
 ## ⚙️ Deployment
